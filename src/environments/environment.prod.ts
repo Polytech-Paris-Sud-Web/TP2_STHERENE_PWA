@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'http://www.calenpart.com:3000'
+  apiUrl: 'https://my-json-server.typicode.com/Polytech-Paris-Sud-Web/TP2_STHERENE_PWA'
 };
