@@ -10,7 +10,7 @@
         <div class="card" style="border-color:{{article.color}};">
           <div class="card-body">
             <p class="float-end">
-              <a (click)="gotoArticle(article)" class="btn btn-outline-info me-2"><i class="fas fa-eye"></i></a>
+              <button (click)="gotoArticle(article)" class="btn btn-outline-info me-2"><i class="fas fa-eye"></i></button>
             </p>
             <h5 class="card-title">{{article.title}}</h5>
             <p class="card-text text-truncate">{{ article.content }}</p>
