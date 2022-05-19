@@ -1,5 +1,5 @@
 import {Component, Input, OnInit} from '@angular/core';
-import {Article} from "../models/article";
+import {Article} from "../models/Article";
 import {Author} from "../models/Author";
 import {ActivatedRoute, Router} from "@angular/router";
 import {ArticleService} from "../article.service";

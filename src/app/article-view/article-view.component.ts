@@ -1,7 +1,7 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { ArticleService } from '../article.service';
-import { Article } from '../models/article';
+import { Article } from '../models/Article';
 import {Author} from "../models/Author";
 import {AuthorService} from "../author.service";
 
