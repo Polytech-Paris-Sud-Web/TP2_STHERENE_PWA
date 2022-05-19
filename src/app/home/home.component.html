@@ -1,0 +1,23 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h1 class="text-center">Welcome to my webSite</h1>
+      <p class="text-center">This is my first webSite with Angular</p>
+    </div>
+    <div class="col-md-12 row">
+      <h1 class="text-center col-12">Last 10 Articles</h1>
+      <div class="col-3 mt-3" *ngFor="let article of this.topArticles">
+        <div class="card" style="border-color:{{article.color}};">
+          <div class="card-body">
+            <p class="float-end">
+              <a (click)="gotoArticle(article)" class="btn btn-outline-info me-2"><i class="fas fa-eye"></i></a>
+            </p>
+            <h5 class="card-title">{{article.title}}</h5>
+            <p class="card-text text-truncate">{{ article.content }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+

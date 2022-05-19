@@ -1,0 +1,133 @@
+{
+  "articles": [
+    {
+      "title": "Bateau",
+      "content": "Un bateau est un moyen de transport capable de flotter sur l'eau et de s'y déplacer, dirigé par ses occupants. Il répond aux besoins du transport maritime ou fluvial, et permet diverses activités telles que le transport de personnes ou de marchandises, la guerre sur mer, la pêche, la plaisance, ou d'autres services tels que la sécurité des autres bateaux.  Les bateaux ont accompagné l'Homme dans son évolution. Indispensables lors des grandes guerres et des conquêtes, et aussi pour la subsistance par la pêche, ils ont été transformés et font maintenant partie intégrante des systèmes commerciaux et militaires modernes : plusieurs millions de bateaux de pêche sont utilisés par quelques dizaines de millions de pêcheurs de par le monde et les guerres modernes font appel à des navires hautement sophistiqués pour transporter et soutenir les forces à terre ; près de 35 000 navires de commerce ont transporté 7,4 milliards de tonnes de marchandises en 20071 (voir détail de ces chiffres plus bas).  Les bateaux ont également pris part aux grandes explorations, aux découvertes scientifiques et à la propagation des grandes cultures : les navigateurs chinois comme Zheng He ont permis de partager des inventions comme la boussole ou la poudre à canon, tandis que les expéditions en Amérique ont diffusé la culture européenne sur ce continent. Si les bateaux ont été utilisés pour les colonisations et le commerce triangulaire, ils ont aussi servi et servent toujours à la recherche scientifique et au rayonnement culturel des pays.  Comme l’a démontré Thor Heyerdahl avec le Kon-Tiki, il est possible de faire de longues traversées avec un simple radeau de rondins.",
+      "author": 1,
+      "color": "#0c31e9",
+      "id": 7
+    },
+    {
+      "title": "Nazisme",
+      "content": "Le national-socialisme (en allemand Nationalsozialismus), plus couramment désigné en français sous l'abréviation nazisme(en allemand Nazismus), est l'idéologie politique du Parti national-socialiste des travailleurs allemands (NSDAP), parti politique d'extrême droite fondé en Allemagne en 1920 et dirigé par Adolf Hitler1,2,3,4. Cette idéologie théorise une hiérarchie au sein d'une espèce humaine divisée en « races », au sommet de laquelle elle place la « race aryenne », à l'inverse de celles les plus détestées, les populations juives, slaves et tziganes, formant la classe des « sous-hommes », les Untermenschen. Le nazisme est le seul type de fascisme incorporant à la fois racisme biologique et antisémitisme5. Par extension, le terme nazisme désigne le régime politique inspiré de cette idéologie, dictature totalitaire et expansionniste dirigée par Adolf Hitler de 1933 à 1945 et connue sous les noms de Troisième Reich ou d'Allemagne nazie.  En tant que sujet de science politique, les définitions du nazisme varient selon les historiens6. En particulier, reste ouverte la question de savoir si le nazisme ne fut que l'une des formes du fascisme ou doit être considéré, parce qu'ayant fait du racisme une doctrine d'État, comme un phénomène historique et idéologique unique. En effet, l'antisémitisme officiel du régime nazi, l'élimination des personnes juives, handicapées et la persécution, entre autres, des opposants politiques, des homosexuels et des Roms, se concrétisent dès 1933, par la mise en place d'une législation raciale et fortement discriminatoire, par une politique de spoliation des juifs, et par l'internement des opposants et des « indésirables » dans les premiers camps de concentration en Allemagne. Cette politique ne fait que s'amplifier du début de la Seconde Guerre mondiale, lorsque la Shoah par balles est déclenchée et que sont créés les centres d'extermination nazis, jusqu'à la défaite militaire du Troisième Reich en 1945. Ainsi, plus de six millions de personnes, dont une majorité de Juifs, sont tués dans les camps de concentration et d'extermination, ou lors des innombrables massacres commis par les troupes nazies et leurs collaborateurs7. Le régime nazi, censé « durer mille ans », en dure douze et laisse l'Europe exsangue et l'Allemagne en ruines.",
+      "author": 2,
+      "color": "#ff0000",
+      "id": 8
+    },
+    {
+      "title": "Sexisme",
+      "content": "Le sexisme est une discrimination fondée sur le sexe1, ou, par extension, sur le genre d'une personne. Le sexisme est lié aux préjugés et au concept de stéréotype et de rôle de genre, pouvant comprendre la croyance qu'un sexe ou qu'un genre serait intrinsèquement supérieur à l'autre2. Dans sa forme extrême, il peut encourager le harcèlement sexuel, le viol ou toute autre forme de violence sexuelle3. Le sexisme évoque également la discrimination de genre sous la forme des inégalités hommes-femmes4. Les cibles du sexisme sont principalement les femmes5.  La thématique du sexisme est abordée par différentes disciplines comme l'analyse des médias, la sociologie, les sciences politiques, la psychologie ou la philosophie.",
+      "author": 3,
+      "color": "#fb00ff",
+      "id": 9
+    },
+    {
+      "title": "Julian Savea",
+      "content": "Sio Julian Savea, né le 7 août 1990 à Wellington, est un joueur néo-zélandais de rugby à XV évoluant au poste d'ailier. International néo-zélandais de rugby à sept, puis membre des All Blacks depuis 2012, il remporte la coupe du monde lors de l'édition 2015, compétition dont il termine meilleur marqueur d'essais avec huit réalisations. En club, il évolue avec la province de Wellington, et avec les Hurricanes en Super Rugby, avec qui il remporte la compétition en 2016.  Joueur à la fois rapide et puissant, Julian Savea utilise ses capacités physiques pour battre les défenseurs adverses. Il est souvent comparé à Jonah Lomu.  Son frère cadet Ardie Savea est également international de rugby à sept et de rugby à XV depuis 2016.",
+      "author": 4,
+      "color": "#00ff2a",
+      "id": 10
+    },
+    {
+      "title": "Nouvelle-Zélande",
+      "content": "La Nouvelle-Zélande (en anglais : New Zealand ; en maori : Aotearoa) est un pays insulaire d'Océanie, situé dans le sud-ouest de l'océan Pacifique. Elle est constituée de deux îles principales : l'île du Nord et l'île du Sud, ainsi que de 700 plus petites îles. Se situant à environ 2 000 km au sud-est de l'Australie, dont elle est séparée par la mer de Tasman, elle se trouve également à 1 000 km au sud des îles de Nouvelle-Calédonie, des Fidji et des Tonga.  Son isolement géographique a permis le développement d'une faune et d'une flore endémiques riches et variées, allant des conifères kauri géants aux insectes weta, en passant par la fougère argentée et l'oiseau kiwi, ces deux derniers étant des symboles nationaux. La topographie variée du pays et ses pics montagneux, dont ceux des Alpes du Sud, doivent beaucoup au soulèvement tectonique et aux éruptions volcaniques. Sa capitale est Wellington et sa plus grande ville est Auckland.  En raison de son éloignement, l'archipel néo-zélandais constitue la dernière grande masse continentale à avoir été découverte et colonisée par les hommes. Les îles ont d'abord été peuplée entre 1280 et 1350 environ, par les Polynésiens qui ont ensuite développé une identité maorie distincte. En 1642, l'explorateur néerlandais Abel Tasman devient le premier Européen à explorer et cartographier une partie de l'archipel.  De 1788 à 1840, la moitié septentrionale de l'île du Nord est intégrée à la colonie britannique de Nouvelle-Galles du Sud, située en Australie. La colonisation y est désordonnée et les Britanniques ne portent qu'un intérêt limité pour le territoire néo-zélandais. La situation change le 6 février 1840, lorsque des représentants du Royaume-Uni et des chefs maoris signent le traité de Waitangi, qui proclame la souveraineté britannique sur l'ensemble des îles.  En 1841, la Nouvelle-Zélande devient une colonie de peuplement à part entière au sein de l'Empire britannique. Ce changement s'accompagne d'une période de colonisation intensive, où les Britanniques conquièrent et colonisent l'entièreté de l'archipel, parfois à travers des guerres contre les Maoris entre 1843 et 1872. La Nouvelle-Zélande obtient la souveraineté interne en acquérant le statut de dominion le 26 septembre 1907, puis elle obtient la souveraineté externe avec la Loi d'adoption du statut de Westminster en 1947.  Sa population, estimée à 5,1 millions d'habitants en 2022, est en majorité blanche, mais elle comporte aussi plusieurs minorités raciales, avec les Maoris, suivis des Asiatiques et des Pacifiens. La culture néo-zélandaise est occidentale et est dérivée des colons européens (principalement britanniques). Il existe également une culture maorie distincte, ainsi que des cultures plus récentes résultant de l'augmentation et de la diversification de l'immigration depuis les années 1970. Les langues officielles sont l'anglais (de facto), le maori et la langue des signes, avec le dialecte local de l'anglais comme langue dominante.  En tant que pays développé, la Nouvelle-Zélande figure en haut des classements internationaux en termes de qualité de vie, d'éducation, de protection des libertés publiques, de transparence du gouvernement et de liberté économique. La Nouvelle-Zélande a connu des changements économiques majeurs au cours des années 1980, qui l'ont transformée d'une économie étatiste et protectionniste à une économie libérale et libre-échangiste. Le secteur des services domine l'économie nationale et est suivi du secteur industriel et agricole. Le tourisme constitue également une importante source de revenus.  À l'échelle nationale, le pouvoir législatif est confié à un Parlement monocaméral élu, tandis que le pouvoir exécutif est exercé par le cabinet, dirigé par le Premier ministre. La reine Élisabeth II est le monarque du pays et est représentée par le gouverneur général. La Nouvelle-Zélande est organisée en seize régions, onze conseils régionaux et soixante-sept autorités territoriales à des fins d'administration locale.  Le Royaume de Nouvelle-Zélande comprend également le territoire dépendant de Tokelau, les États associés des Îles Cook et Niue, ainsi que la dépendance de Ross, correspondant à la revendication territoriale de la Nouvelle-Zélande en Antarctique. La Nouvelle-Zélande est membre de l'ONU, du Commonwealth, de l'ANZUS, de l'OCDE, de l'APEC, de la Communauté du Pacifique et du Forum des îles du Pacifique.",
+      "author": 1,
+      "color": "#c5de0d",
+      "id": 11
+    },
+    {
+      "title": "Climat de la Nouvelle-Zélande",
+      "content": "Le climat de la Nouvelle-Zélande est océanique. Les températures moyennes varient entre 8 °C dans l'île du Sud et 16 °C dans l'île du Nord. Janvier et février sont les mois les plus chauds alors que juillet est le mois le plus froid. La Nouvelle-Zélande ne dispose pas d'une large gamme de température mais le temps peut changer rapidement et de manière inattendue. Un climat subtropical humide est perçu dans la péninsule de Northland.",
+      "author": 2,
+      "color": "#37ff00",
+      "id": 12
+    },
+    {
+      "title": "Culture de Majiayao",
+      "content": "La culture de Majiayao (马家窑文化, vers 3300 à 2000 avant notre ère1) est une culture néolithique du Nord-Ouest de la Chine sur le cours supérieur du fleuve Jaune. Elle est plus ancienne mais ensuite contemporaine de la culture de Longshan (2900-1900). Des liens manifestes réunissent la culture de Majiayao avec la culture de Qijia, qui s'est développée ensuite dans cette même région et qui a été la première des cultures de l'âge du bronze en Chine2.",
+      "author": 3,
+      "color": null,
+      "id": 13
+    },
+    {
+      "title": "Xian de Longxi",
+      "content": "Le xian de Longxi (陇西县 ; pinyin : Lǒngxī Xiàn) est un district administratif de la province du Gansu en Chine. Il est placé sous la juridiction de la ville-préfecture de Dingxi.",
+      "author": 4,
+      "color": "#00f5d8",
+      "id": 14
+    },
+    {
+      "title": "Dynastie Song",
+      "content": "La dynastie Song (chinois : 宋朝 ; pinyin : sòng cháo ; Wade : sung ch'ao ; prononcé /sõŋ tʃao/) est une dynastie qui a régné en Chine entre 960 et 1279. Elle a succédé à la période des Cinq Dynasties et des Dix Royaumes et a été suivie par la dynastie Yuan. Il s'agit du premier gouvernement au monde à émettre des billets de banque. Cette dynastie a également vu la première désignation du vrai Nord à l'aide d'une boussole.  L'histoire de la dynastie Song se divise en deux périodes distinctes : les Song du Nord et les Song du Sud. Durant la période des Song du Nord (chinois : 北宋 ; pinyin : běi sòng, 960-1127), la capitale est la ville septentrionale de Bianjing (actuelle Kaifeng) et l'empire s'étend sur la plus grande partie de la Chine historique. La période des Song du Sud (chinois : 南宋 ; pinyin : nán sòng, 1127-1279) est la période durant laquelle les Song perdent le Nord de la Chine au profit de la dynastie Jin. À cette époque, la cour impériale se réfugie au sud du fleuve Yangzi Jiang et la nouvelle capitale est établie à Lin'an (actuelle Hangzhou). Bien que la dynastie ait perdu le contrôle du berceau traditionnel de la civilisation chinoise au bord du fleuve Jaune, son économie ne s'effondre pas pour autant, le Sud de la Chine abritant 60 % de la population de la Chine et la majorité des terres les plus fertiles de la région1. La dynastie Song du Sud a considérablement développé et professionnalisé sa force navale pour défendre ses eaux et ses frontières et pour mener des expéditions maritimes vers l'étranger.  Pour repousser les Jin et plus tard les Mongols, les Song ont développé des techniques militaires révolutionnaires, notamment l'usage de la poudre à canon. En 1234, la dynastie Jin est défaite par les Mongols qui mettent la main sur le Nord de la Chine. Möngke, quatrième grand Khan de l'Empire mongol, meurt en 1259 lors du siège de la ville de Chongqing. Son plus jeune frère Kubilai Khan est proclamé nouveau Grand Khan, nomination partiellement soutenue par les Mongols de l'Ouest. En 1271, Kubilai Khan est proclamé empereur de Chine2. Après deux décennies de guerres sporadiques, ses armées vainquent définitivement la dynastie Song en 1279. La Chine est de nouveau unifiée sous la dynastie Yuan (1271-1368)3.  La population chinoise double au cours des xe et xie siècles. Cette croissance est due à l'expansion de la culture du riz en Chine centrale et méridionale, à l'usage de riz précoce en Asie du Sud-Est et du Sud et à la production d'abondants surplus alimentaires4,5. Le recensement des Song du Nord fait état d'une population d'environ 50 millions d'individus, soit bien plus qu'au cours des dynasties Han et Tang. Cette estimation est tirée des Vingt-Quatre Histoires, une compilation de livres historiques faisant référence dans le domaine. Cependant, on estime que la population des Song du Nord atteint les 100 millions de personnes6. Cette spectaculaire croissance démographique a suscité une révolution économique dans la Chine pré-moderne. L'expansion de la population est en partie due au retrait graduel du gouvernement central, qui régulait jusqu'alors profondément l'économie de marché. Cette croissance démographique renforce également le rôle de la petite noblesse locale dans l'administration du peuple et des affaires locales. Les fonctionnaires nommés dans les xian et les provinces délèguent en effet la gestion et la supervision des affaires locales à la noblesse érudite.  La vie sociale durant la dynastie Song est prospère. Les élites participent au commerce d'arts précieux. La population aime à se rassembler au cours de fêtes publiques et dans des clubs privés. Les villes possèdent des quartiers dédiés aux divertissements. La diffusion de la littérature et des connaissances est améliorée par l'invention de l'impression par blocs de bois et par l'invention au cours du xie siècle des caractères mobiles d'imprimerie. La technologie pré-moderne, la science, la philosophie, les mathématiques et autres disciplines intellectuelles prospèrent. Des philosophes tels que Chen Yi et Zhu Xi ravivent le confucianisme avec de nouveaux commentaires, inspirés de certains idéaux bouddhistes, et mettent en valeur une nouvelle organisation des textes classiques qui fait ressortir le cœur de la doctrine néoconfucianiste. Les examens impériaux acquièrent une plus grande importance sous la dynastie Song.",
+      "author": 5,
+      "color": "#000000",
+      "id": 15
+    },
+    {
+      "title": "Mot",
+      "content": "Un mot est une suite de sons ou de caractères graphiques formant une unité sémantique et pouvant être distingués par un séparateur, par exemple un blanc typographique à l'écrit. En linguistique, un mot est le plus petit élément pouvant être prononcé isolément avec un contenu sémantique ou pragmatique.",
+      "author": 1,
+      "color": null,
+      "id": 16
+    },
+    {
+      "title": "Bas latin",
+      "content": "Le bas latin ou latin tardif, est le latin de l’Antiquité tardive, habituellement les versions du latin parlées du iiie au vie siècle (voire jusqu'au viie siècle en Espagne).",
+      "author": 2,
+      "color": "#e6eaa9",
+      "id": 17
+    },
+    {
+      "title": "Stephen",
+      "content": "Stephen est un nom de famille notamment porté par :  Adrian Stephen (1883-1948), écrivain et psychanalyste britannique membre du Bloomsbury Group, époux de Karin Stephen et frère de Virginia Woolf ; Elizabeth Stephen (1987-), fondeuse américaine ; George Stephen (1829-1921), homme d'affaires canadien pionnier du transport ferroviaire nord-américain ; James Fitzjames Stephen (1829-1894), juriste britannique ; Jimmy Stephen (1922-2012), footballeur écossais ; Katharine Stephen (1856-1924), bibliothécaire et principale de collège Karin Stephen (1889-1953), médecin, psychanalyste et universitaire britannique, épouse d'Adrian Stephen ; Leslie Stephen (1832-1904), écrivain et alpiniste britannique, père d'Adrian Stephen, de Thoby Stephen, de Virginia Woolf et de Vanessa Bell ; Marcus Stephen (né en 1969), Président de la République de Nauru (2007-2011) ; Ninian Stephen (1923-2017), homme politique australien ; Thoby Stephen (1880-1906), frère d'Adrian Stephen et de Virginia Woolf.",
+      "author": 1,
+      "color": "#fba7a7",
+      "id": 18
+    },
+    {
+      "title": "Boat",
+      "content": "Boat est un court métrage de David Lynch, sorti en janvier 20071.  Écrit et réalisé par David Lynch et se mettant en scène lui-même2, le court-métrage est tourné en vidéo numérique et dure 7 minutes, avec un commentaire de sa compagne Emily Stofle.",
+      "author": 1,
+      "color": "#6651d2",
+      "id": 19
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Wikipedia",
+      "firstname": "",
+      "biography": ""
+    },
+    {
+      "id": 2,
+      "name": "Enrique",
+      "firstname": "Leon",
+      "biography": "Enrique Leon, né le 7 juillet 1858 à Madrid, est un poète et écrivain espagnol. Il est le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz.è"
+    },
+    {
+      "id": 3,
+      "name": "Nicole",
+      "firstname": "Bédrines",
+      "biography": "Nicole Bédrines, née le 7 juillet 1858 à Madrid, est une poète espagnole. Elle est née dans le cadre d’un projet de recherche sur le thème de la poésie espagnole. Elle est également née dans le cadre d’un projet de recherche sur le thème de la poésie espagnole. Elle est également née dans le cadre d’un projet de recherche sur le thème de la poésie espagnole. Elle est également née dans le cadre d’un projet de recherche sur le thème de la poésie espagnole. Elle est également née dans le cadre d’un projet de recherche sur le thème de la poésie espagnole. Elle est également née dans le cadre d’un projet de recherche sur le thème de la poésie espagnole. Elle est également née dans le cadre d’un projet de recherche sur le thème de la poésie espagnole. Elle est également née dans le cadre d’un projet de recherche sur le thème de la poésie espagnole. Elle est également née dans le cadre d’un projet de recherche sur le thème de la poésie espagnole. Elle est également née dans le cadre d’un projet de recherche sur le thème de la poésie espagnole. Elle est également née dans le cadre d’un projet de recherche sur le thème de la poésie espagnole. Elle est également née dans le cadre d’un projet de recherche sur le thème de la poésie espagnole."
+    },
+    {
+      "id": 4,
+      "name": "François",
+      "firstname": "Dumas",
+      "biography": "François Dumas, né le 7 juillet 1858 à Madrid, est un poète et écrivain français. Il est le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. "
+    },
+    {
+      "id": 5,
+      "name": "François",
+      "firstname": "Mauriac",
+      "biography": "François Mauriac, né le 7 juillet 1858 à Madrid, est un poète et écrivain français. Il est le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz."
+    },
+    {
+      "id": 6,
+      "name": "François",
+      "firstname": "Rabelais",
+      "biography": "François Rabelais, né le 7 juillet 1858 à Madrid, est un poète et écrivain français. Il est le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz. Il est également le fils du poète yucatecóense José Luis de la Cruz, et de la poète yucatecóense María de la Cruz."
+    }
+  ]
+}

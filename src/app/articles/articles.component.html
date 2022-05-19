@@ -1,0 +1,7 @@
+<input (input)="searchArticles($event)" (ngModelChange)="searchArticles" type="text" class="form-control m-3" placeholder="Recherche">
+<h1>List of article</h1>
+<div class="row">
+  <app-article class="col-md-3 mt-4" *ngFor="let article of this.articles" [article]="article" (deletedArticle)="delete($event)">
+  </app-article>
+</div>
+

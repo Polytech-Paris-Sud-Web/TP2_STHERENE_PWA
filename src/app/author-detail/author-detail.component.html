@@ -1,0 +1,9 @@
+<h1 class="text-center">{{ author.name }} {{ author.firstname }}</h1>
+<div style="text-align: justify;">
+  <h5>Bibliographie :</h5>
+  <p *ngFor="let art of articles" style="color:{{ art.color }}">
+    <a (click)="gotoArticle(art)">{{ art.title }}</a>
+  </p>
+  <h5>Biographie :</h5>
+  <p>{{ author.biography }}</p>
+</div>

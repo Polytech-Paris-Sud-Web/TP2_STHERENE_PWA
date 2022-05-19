@@ -1,0 +1,7 @@
+<h1 class="text-center" style="color: {{ article.color }}">{{ article.title }}</h1>
+<div style="text-align: justify;">
+  {{ article.content }}
+</div>
+<footer class="text-muted mt-5">
+  Author : <a (click)="gotoAuthor(author)">{{ author.name }}</a>
+</footer>

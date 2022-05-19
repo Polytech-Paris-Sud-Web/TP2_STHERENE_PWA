@@ -1,0 +1,43 @@
+<div>
+  <form [formGroup]="articleForm" (ngSubmit)="createArticle()">
+    <div class="card col-5 m-auto">
+      <div class="card-header">
+        <h2>Article</h2>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Create your article</h5>
+        <div class="mb-3">
+          <label for="title" class="form-label">Title</label>
+          <input type="text" class="form-control" id="title" formControlName="title"
+                 placeholder="Title of the article.">
+        </div>
+
+        <div class="mb-3">
+          <label for="content" class="form-label">content</label>
+          <input type="text" class="form-control" id="content" formControlName="content"
+                 placeholder="Content of the article.">
+        </div>
+
+        <div class="mb-3">
+          <label for="author" class="form-label">author</label>
+          <select formControlName="author" id="author" class="form-control" >
+            <option *ngFor="let author of authorList" value="{{author.id}}">
+              {{author.name}} {{author.firstname}}
+            </option>
+          </select>
+        </div>
+        <div class="mb-3">
+          <label for="color" class="form-label">color</label>
+          <input type="color" class="form-control form-control-color" id="color" formControlName="color">
+        </div>
+
+      </div>
+
+      <div class="card-footer text-muted">
+        <p class="card-text">
+          <button class="btn btn-success" [disabled]="articleForm.invalid" type="submit">Save</button>
+        </p>
+      </div>
+    </div>
+  </form>
+</div>
