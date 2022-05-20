@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1652972425100,
+  "timestamp": 1653037874627,
   "index": "/TP2_STHERENE_PWA/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/TP2_STHERENE_PWA/favicon.ico",
         "/TP2_STHERENE_PWA/index.html",
-        "/TP2_STHERENE_PWA/main.580de046eb6ee2df.js",
+        "/TP2_STHERENE_PWA/main.73983e4683972b43.js",
         "/TP2_STHERENE_PWA/manifest.webmanifest",
         "/TP2_STHERENE_PWA/polyfills.398026920aea67be.js",
         "/TP2_STHERENE_PWA/runtime.39b9c598bcf6abf2.js",
@@ -36,7 +36,12 @@
         "/TP2_STHERENE_PWA/assets/icons/icon-384x384.png",
         "/TP2_STHERENE_PWA/assets/icons/icon-512x512.png",
         "/TP2_STHERENE_PWA/assets/icons/icon-72x72.png",
-        "/TP2_STHERENE_PWA/assets/icons/icon-96x96.png"
+        "/TP2_STHERENE_PWA/assets/icons/icon-96x96.png",
+        "/TP2_STHERENE_PWA/assets/icons/icons8_add_list_96px.png",
+        "/TP2_STHERENE_PWA/assets/icons/icons8_document_96px.png",
+        "/TP2_STHERENE_PWA/assets/icons/icons8_recycle_bin_96px.png",
+        "/TP2_STHERENE_PWA/assets/icons/icons8_snorlax_96px.png",
+        "/TP2_STHERENE_PWA/assets/icons/icons8_uchiha_eyes_96px.png"
       ],
       "patterns": []
     }
@@ -66,9 +71,14 @@
     "/TP2_STHERENE_PWA/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/TP2_STHERENE_PWA/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/TP2_STHERENE_PWA/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/TP2_STHERENE_PWA/assets/icons/icons8_add_list_96px.png": "586539a29cb7ca463b77d342eb14b656deb6ac83",
+    "/TP2_STHERENE_PWA/assets/icons/icons8_document_96px.png": "fe6db7487239dae8bf6e56ddbfc8ac314550ff44",
+    "/TP2_STHERENE_PWA/assets/icons/icons8_recycle_bin_96px.png": "a4bc7e9213c80f2a144f08c07958d43e3ac78516",
+    "/TP2_STHERENE_PWA/assets/icons/icons8_snorlax_96px.png": "ad637f73e3264a17a4736fcfca74e963bb112de6",
+    "/TP2_STHERENE_PWA/assets/icons/icons8_uchiha_eyes_96px.png": "248a4b48642d32744f578984f311b1eec35a18d8",
     "/TP2_STHERENE_PWA/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/TP2_STHERENE_PWA/index.html": "f336e53bced44913cd0f3da62a325f736cc5c687",
-    "/TP2_STHERENE_PWA/main.580de046eb6ee2df.js": "f2bde9e7d5b41a3460d7f8697b2059cae8a37279",
+    "/TP2_STHERENE_PWA/index.html": "91ced856a82536b767e0559ea671980d2f62647a",
+    "/TP2_STHERENE_PWA/main.73983e4683972b43.js": "a7b82d84cfb4e91ad95e1151ef13382a3e47ac0a",
     "/TP2_STHERENE_PWA/manifest.webmanifest": "c0e252f16cd08005e12fe72b1a08310b206a6992",
     "/TP2_STHERENE_PWA/polyfills.398026920aea67be.js": "06c0d4743f0e7bb072c6c46a7d973e235f146674",
     "/TP2_STHERENE_PWA/runtime.39b9c598bcf6abf2.js": "dd72253a19e6ba3286a052a1de000fe6e863c2f3",
