@@ -11,7 +11,7 @@ import {Article} from '../models/Article';
 })
 export class ArticlesComponent implements OnInit {
 
-  articles!: Article[];
+  articles: Article[] | undefined;
 
   constructor(private articleService: ArticleService) {
   }

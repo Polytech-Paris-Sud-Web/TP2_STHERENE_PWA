@@ -4,13 +4,13 @@
       <h1 class="text-center">Welcome to my webSite</h1>
       <p class="text-center">This is my first webSite with Angular</p>
     </div>
-    <div class="col-md-12 row">
+    <div *ngIf="topArticles" class="col-md-12 row">
       <h1 class="text-center col-12">Last 10 Articles</h1>
-      <div class="col-3 mt-3" *ngFor="let article of this.topArticles">
+      <div class="col-md-3 mt-3" *ngFor="let article of this.topArticles">
         <div class="card" style="border-color:{{article.color}};">
           <div class="card-body">
             <p class="float-end">
-              <button (click)="gotoArticle(article)" class="btn btn-outline-info me-2" aria-label="Detail of article"><i class="fas fa-eye"></i></button>
+              <button (click)="gotoArticle(article)" class="btn btn-outline-info me-2" aria-label="Detail of article"><img src="assets/icons/icons8_uchiha_eyes_96px.png" width="96" height="96" class="img-fluid" alt="Images d'un oeil"></button>
             </p>
             <p class="card-title h5">{{article.title}}</p>
             <p class="card-text text-truncate">{{ article.content }}</p>

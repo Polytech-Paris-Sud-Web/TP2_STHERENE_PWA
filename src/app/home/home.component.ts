@@ -11,7 +11,7 @@ import {Router} from "@angular/router";
 })
 export class HomeComponent implements OnInit {
 
-  topArticles!: Article[]
+  topArticles : Article[] | undefined
 
   constructor(private articleService : ArticleService, public authorService: AuthorService, private route : Router) { }
 

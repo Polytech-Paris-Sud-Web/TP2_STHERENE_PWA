@@ -14,18 +14,10 @@ import {Router} from "@angular/router";
 export class ArticleCreationComponent implements OnInit {
 
   articleForm : FormGroup;
-  authorList : Author[] = [
-    {
-      name: "Bonjour",
-      id: 0,
-      firstname: "",
-      biography: ""
-    }
-  ];
+  authorList : Author[] | undefined;
 
   constructor(private fb: FormBuilder, private articleService: ArticleService, private authorService: AuthorService, private route: Router) {
     authorService.getAuthors().subscribe((value) => {
-      console.log(value);
       this.authorList = value;
     });
     this.articleForm = this.fb.group({

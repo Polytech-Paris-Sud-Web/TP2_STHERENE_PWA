@@ -12,14 +12,9 @@ import {AuthorService} from "../author.service";
 })
 export class AuthorDetailComponent implements OnInit {
   @Input()
-  author: Author = {
-    name: "",
-    id: 0,
-    firstname: "",
-    biography: ""
-  };
+  author: Author | undefined;
 
-  articles : Article[] = [];
+  articles : Article[] | undefined;
 
   constructor(private route: ActivatedRoute, private router: Router, private articleService: ArticleService, private authorService: AuthorService) {
     const id = parseInt(this.route.snapshot.paramMap.get('id') || '0');

@@ -10,3 +10,8 @@
 .card{
   height: 100%;
 }
+
+img{
+  width: 24px;
+  height: auto;
+}

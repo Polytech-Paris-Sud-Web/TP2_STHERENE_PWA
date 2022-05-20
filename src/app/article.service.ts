@@ -16,16 +16,12 @@ export class ArticleService {
   }
 
   public preloadArticles$(): Observable<Article[]> {
-    if (!this.preloadArticles) {
-      return this.http.get<Article[]>(`${environment.apiUrl}/articles`).pipe(
-        map(articles => {
-          this.preloadArticles = articles;
-          return articles;
-        })
-      );
-    }
-
-    return of(this.preloadArticles);
+    return (this.preloadArticles) ? of(this.preloadArticles) : this.http.get<Article[]>(`${environment.apiUrl}/articles`).pipe(
+      map(value => {
+        this.preloadArticles = value;
+        return value;
+      })
+    );
   }
 
 

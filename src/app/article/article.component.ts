@@ -13,12 +13,7 @@ import {AuthorService} from "../author.service";
 export class ArticleComponent implements OnInit {
   @Input()
   article!: Article;
-  author: Author = {
-    name: "",
-    id: 0,
-    firstname: "",
-    biography: ""
-  };
+  author: Author | undefined;
 
   @Output()
   deletedArticle : EventEmitter<Article> = new EventEmitter();
